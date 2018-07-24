@@ -1,0 +1,10 @@
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\bin\Debug\MobileShopMgmSys.exe.config
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\bin\Debug\MobileShopMgmSys.exe
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\bin\Debug\MobileShopMgmSys.pdb
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\obj\Debug\MobileShopMgmSys.csprojResolveAssemblyReference.cache
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\obj\Debug\MobileShopMgmSys.Form1.resources
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\obj\Debug\MobileShopMgmSys.Properties.Resources.resources
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\obj\Debug\MobileShopMgmSys.csproj.GenerateResource.Cache
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\obj\Debug\MobileShopMgmSys.exe
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\obj\Debug\MobileShopMgmSys.pdb
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\MobileShopMgmSys\MobileShopMgmSys\obj\Debug\MobileShopMgmSys.faltu.resources
